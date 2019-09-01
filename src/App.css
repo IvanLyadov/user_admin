@@ -1,0 +1,61 @@
+#root,body,html{
+  height: 100%;
+}
+.blue_bg{
+  background-color: #52afe0;
+}
+.white_bg{
+  background-color: #f3f3f4;
+}
+.pink_bg{
+  background-color: #fb4184 !important;
+}
+.no_list{
+  list-style: none;
+  padding: 0;
+}
+.navbar-left-wrapper{
+  color: #fff;
+}
+.light_white_bg{
+  background-color: #fff;
+}
+.paddgin-left_0{
+  padding-left: 0 !important;
+}
+.yellow_bg{
+  background-color: #fefc52 !important;
+}
+.button{
+  border-color:none !important;
+}
+.search_sc{
+  padding: 20px 0;
+  text-align: right;
+  padding-right: 20px;
+}
+.search_item{
+  display: inline-block;
+  max-width: 250px;
+}
+.search_item input{
+  border-radius: 0;
+}
+.search_btn{
+  margin-top: -6px;
+  border-radius: 0 !important;
+  border-color: #fb4184 !important;
+}
+.no_border{
+  border:0 !important;
+}
+.cst-tabl.table td,
+.cst-tabl.table th{
+  padding: .05rem;
+  vertical-align: middle;
+  padding-left: 5px;
+  border-top: 0;
+}
+.cst_badge{
+  background-color: initial !important;
+}
